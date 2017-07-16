@@ -1,0 +1,42 @@
+Statement #1
+Token 0 is 1
+Token 1 is <=
+Token 2 is 2
+Token 3 is ;
+---------------------------------------------------------
+Statement #2
+Token 0 is (
+Token 1 is 2
+Token 2 is ^
+Token 3 is 2
+Token 4 is )
+Token 5 is !=
+Token 6 is 10
+Token 7 is +
+Token 8 is 7
+Token 9 is ;
+---------------------------------------------------------
+Statement #3
+Token 0 is 2
+Token 1 is *
+Token 2 is 19
+Token 3 is +
+Token 4 is (
+Token 5 is 5
+Token 6 is /
+Token 7 is 0
+Token 8 is )
+Token 9 is ;
+---------------------------------------------------------
+Statement #4
+Token 0 is 1
+Token 1 is ==
+Token 2 is =
+Token 3 is 2
+Token 4 is ;
+---------------------------------------------------------
+Statement #5
+Token 0 is 2
+Token 1 is *
+Token 2 is *
+Token 3 is 9

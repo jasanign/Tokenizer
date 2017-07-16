@@ -1,0 +1,50 @@
+Statement #1
+Lexeme 0 is 1
+Lexeme 1 is <= 
+Lexeme 2 is 2 
+Lexeme 3 is ; 
+---------------------------------------------------------
+Statement #2
+Lexeme 0 is ( 
+Lexeme 1 is 2 
+Lexeme 2 is ^ 
+Lexeme 3 is 2 
+Lexeme 4 is ) 
+Lexeme 5 is != 
+Lexeme 6 is 10 
+Lexeme 7 is + 
+Lexeme 8 is 7 
+Lexeme 9 is ; 
+---------------------------------------------------------
+Statement #3
+Lexeme 0 is 2 
+Lexeme 1 is * 
+Lexeme 2 is 19 
+Lexeme 3 is + 
+Lexeme 4 is ( 
+Lexeme 5 is 5 
+Lexeme 6 is / 
+Lexeme 7 is 0 
+Lexeme 8 is ) 
+Lexeme 9 is ; 
+---------------------------------------------------------
+Statement #4
+Lexeme 0 is 1 
+===> '@'
+Lexical error: not a lexeme
+Lexeme 1 is == 
+Lexeme 2 is = 
+Lexeme 3 is 2 
+Lexeme 4 is ; 
+---------------------------------------------------------
+Statement #5
+Lexeme 0 is 2 
+Lexeme 1 is * 
+Lexeme 2 is * 
+Lexeme 3 is 9 
+---------------------------------------------------------
+Statement #6
+Lexeme 0 is 3 
+Lexeme 1 is * 
+===> '@'
+Lexical error: not a lexeme
